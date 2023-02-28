@@ -16,7 +16,7 @@ You can install the dependencies by running the following command:
 To use the project, you can follow these steps:
 
 1.  Clone the repository:
-    git clone https://github.com/your-username/google-play-medium-reviews-bert-tokenizer.git
+    git clone https://github.com/and.lauwira/BERT-text-tokenizer-for-NLP-Natural-Language-Preprocess.git
 
 2.  Download the Google Play Medium Reviews dataset:
     https://www.kaggle.com/datasets/raqhea/medium-app-reviews-from-google-play-store
